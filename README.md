@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Techboy07
+- 👋 Hi, I’m @Toluwalase Babatunde
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...html&css
+- 🌱 I’m currently learning ...fullstack web development using html,css,javascript,react,node,express,mongodb
 - 💞️ I’m looking to collaborate on ...learning quickly
 - 📫 How to reach me ...whatsapp no 09076673849 & email:technogodwr@gmail.com
 <!---
