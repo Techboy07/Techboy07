@@ -47,13 +47,7 @@ I've worked with startups to take their apps from **inception to launch**, ensur
 > authorize users to add/delete product to/from the platform  
 > perform customer care services  
 
-✅ **Mobile-app** where:
-> user can purchase products  
-> user can be authenticated seemlesly with email and password or 0auth  
-> user can manage their profiles  
-> user can add payment options like credit card,Debit cards, ussd transfer and third party payment options  
-> user can make reviews and ratings on purchased products for feedback  
-
+✅ **Mobile-app** that brings all web functionality to Android and Ios platform  
 ✅ **Backend service** that controls all the above services including:
 
 > authentication  
