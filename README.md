@@ -32,7 +32,8 @@ I've worked with startups to take their apps from **inception to launch**, ensur
 
 ### [🔹E-commerce suite](https:///)  
 
-A **A fullstack E-commerce ready solutions** with:  
+**A fullstack E-commerce ready to go solutions** with: 
+
 ✅ **Web-app** where:
 > user can purchase products  
 > user can be authenticated seemlesly with email and password or 0auth  
