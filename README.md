@@ -41,6 +41,7 @@ A **a simple note-taking web app** with:
 > **Tech Stack**: React.js ,react-redux ,Firebase, material-ui 
 
 ---  
+---
 
 ## 🚀 What I Bring to the Table  
 ✅ **React Native expertise** for cross-platform mobile development  
