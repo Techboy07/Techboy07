@@ -49,7 +49,6 @@ I've worked with startups to take their apps from **inception to launch**, ensur
 
 ✅ **Mobile-app** that brings all web functionality to Android and Ios platform  
 ✅ **Backend service** that controls all the above services including:
-
 > authentication  
 > database  
 > product management  
@@ -62,7 +61,6 @@ I've worked with startups to take their apps from **inception to launch**, ensur
 
 ### [🔹Notaculus](https://notaculus.netlify.app/)  
 **A simple note-taking web app** with:  
-
 ✅ **User-preference** the user can select either light or dark mode and change application's accent color and username  
 ✅ **create-notes** the user can create notes that can be stored for future purpose  
 ✅ **edit-notes** the user can select and edit a pre saved note at any point in the future  
