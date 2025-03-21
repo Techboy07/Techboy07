@@ -31,8 +31,8 @@ I've worked with startups to take their apps from **inception to launch**, ensur
 ## 🔥 Projects  
 
 ### [🔹Notaculus](https://notaculus.netlify.app/)  
-A **a simple note-taking web app** with:  
-✅ **User-preference** the user can select either light or dark mode and change application's accent color and username  
+A **a simple note-taking web app** with:
+✅ **User-preference** the user can select either light or dark mode and change application's accent color and username
 ✅ **create-notes** the user can create notes that can be stored for future purpose
 ✅ **edit-notes** the user can select and edit a pre saved note at any point in the future
 ✅ **clipboard** for copying a selected note to clipboard to be used on the device
