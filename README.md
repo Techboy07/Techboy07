@@ -46,32 +46,32 @@ A **a simple note-taking web app** with:
 
 A **A fullstack E-commerce ready solutions** with:  
 ✅ **Web-app** where:
-> user can purchase products
-> user can be authenticated seemlesly with email and password or 0auth
-> user can manage their profiles
-> user can add payment options like credit card,Debit cards, ussd transfer and third party payment options
-> user can make reviews and ratings on purchased products for feedback
+> user can purchase products  
+> user can be authenticated seemlesly with email and password or 0auth  
+> user can manage their profiles  
+> user can add payment options like credit card,Debit cards, ussd transfer and third party payment options  
+> user can make reviews and ratings on purchased products for feedback  
 
 ✅ **Admin-Dashboard** that:
-> can manage users
-> can manage products
-> authorize users to add/delete product to/from the platform
-> perform customer care services
+> can manage users  
+> can manage products  
+> authorize users to add/delete product to/from the platform  
+> perform customer care services  
 
 ✅ **Mobile-app** where:
-> user can purchase products
-> user can be authenticated seemlesly with email and password or 0auth
-> user can manage their profiles
-> user can add payment options like credit card,Debit cards, ussd transfer and third party payment options
-> user can make reviews and ratings on purchased products for feedback
+> user can purchase products  
+> user can be authenticated seemlesly with email and password or 0auth  
+> user can manage their profiles  
+> user can add payment options like credit card,Debit cards, ussd transfer and third party payment options  
+> user can make reviews and ratings on purchased products for feedback  
 
 ✅ **Backend service** that controls all the above services including:
 
-> authentication
-> database
-> product management
-> user management
-> payment management 
+> authentication  
+> database  
+> product management  
+> user management  
+> payment management   
 
 > **Tech Stack**: React-native ,React.js ,zustand ,Node.js,express, postgresql, stripe, nodemailer,
 
