@@ -20,7 +20,7 @@ I've worked with startups to take their apps from **inception to launch**, ensur
 - 🔥 **Firebase, MongoDB, PostgreSQL**  
 
 ### **Tools & DevOps**  
-- 🐳 **Docker**  
+- 🐳 **Docker , Linux-servers**  
 - 🔗 **Git, GitHub, Vercel**  
 - 🛠️ **Jest, Figma**  
 
@@ -42,16 +42,38 @@ A **a simple note-taking web app** with:
 
 ---  
 
-### [🔹Notaculus](https://notaculus.netlify.app/)  
-A **a simple note-taking web app** with:  
-✅ **User-preference** the user can select either light or dark mode and change application's accent color and username  
-✅ **create-notes** the user can create notes that can be stored for future purpose  
-✅ **edit-notes** the user can select and edit a pre saved note at any point in the future  
-✅ **clipboard** for copying a selected note to clipboard to be used on the device  
+### [🔹E-commerce suite](https:///)  
 
+A **A fullstack E-commerce ready solutions** with:  
+✅ **Web-app** where:
+> user can purchase products
+> user can be authenticated seemlesly with email and password or 0auth
+> user can manage their profiles
+> user can add payment options like credit card,Debit cards, ussd transfer and third party payment options
+> user can make reviews and ratings on purchased products for feedback
 
-> **Tech Stack**: React.js ,react-redux ,Firebase, material-ui
+✅ **Admin-Dashboard** that:
+> can manage users
+> can manage products
+> authorize users to add/delete product to/from the platform
+> perform customer care services
 
+✅ **Mobile-app** where:
+> user can purchase products
+> user can be authenticated seemlesly with email and password or 0auth
+> user can manage their profiles
+> user can add payment options like credit card,Debit cards, ussd transfer and third party payment options
+> user can make reviews and ratings on purchased products for feedback
+
+✅ **Backend service** that controls all the above services including:
+
+> authentication
+> database
+> product management
+> user management
+> payment management 
+
+> **Tech Stack**: React-native ,React.js ,zustand ,Node.js,express, postgresql, stripe, nodemailer,
 
 ---
 
