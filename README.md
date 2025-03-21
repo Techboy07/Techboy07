@@ -30,18 +30,6 @@ I've worked with startups to take their apps from **inception to launch**, ensur
 
 ## 🔥 Projects  
 
-### [🔹Notaculus](https://notaculus.netlify.app/)  
-A **a simple note-taking web app** with:  
-✅ **User-preference** the user can select either light or dark mode and change application's accent color and username  
-✅ **create-notes** the user can create notes that can be stored for future purpose  
-✅ **edit-notes** the user can select and edit a pre saved note at any point in the future  
-✅ **clipboard** for copying a selected note to clipboard to be used on the device  
-
-
-> **Tech Stack**: React.js ,react-redux ,Firebase, material-ui 
-
----  
-
 ### [🔹E-commerce suite](https:///)  
 
 A **A fullstack E-commerce ready solutions** with:  
@@ -76,6 +64,18 @@ A **A fullstack E-commerce ready solutions** with:
 > **Tech Stack**: React-native ,React.js ,zustand ,Node.js,express, postgresql, stripe, nodemailer,
 
 ---
+
+### [🔹Notaculus](https://notaculus.netlify.app/)  
+A **a simple note-taking web app** with:  
+✅ **User-preference** the user can select either light or dark mode and change application's accent color and username  
+✅ **create-notes** the user can create notes that can be stored for future purpose  
+✅ **edit-notes** the user can select and edit a pre saved note at any point in the future  
+✅ **clipboard** for copying a selected note to clipboard to be used on the device  
+
+
+> **Tech Stack**: React.js ,react-redux ,Firebase, material-ui 
+
+---  
 
 ## 🚀 What I Bring to the Table  
 ✅ **React Native expertise** for cross-platform mobile development  
