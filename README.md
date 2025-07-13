@@ -43,17 +43,16 @@ A **cross-platform fintech mobile app** with:
 ---
 ### [🔹Swegz blog](https://blog.swegztrade.ng/)
 **A blog that manages FAQ for the swegzapp:**
-✅ a stunning frontend to display posts 
-✅ a dashboard to manage post which can create delete edit and archive posts 
-✅ SEO optimization ready 
-✅ Headless cms design fully customizable experience from the dashboard 
+* a stunning frontend to display posts 
+* a dashboard to manage post which can create delete edit and archive posts
+* SEO optimization ready
+* Headless cms design fully customizable experience from the dashboard
 
 > **Tech Stack** Typescript, React.js, Next.js, tailwindcss,prismic.js
 
 ---
 
 ### [🔹E-commerce suite](https://github.com/Techboy07/Ecommerce-suite)  
-
 **A fullstack E-commerce ready to go solutions** with: 
 
 ✅ **Web-app** where:
