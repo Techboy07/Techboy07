@@ -40,8 +40,19 @@ A **cross-platform fintech mobile app** with:
 
 > **Tech Stack**: React Native, Firebase, Node.js, Express.js, Stripe, SmileID SDK  
 
+---
+### [🔹Swegz blog](https://blog.swegztrade.ng/)
+**A blog that manages FAQ for the swegzapp:**
+✅ a stunning frontend to display posts
+✅ a dashboard to manage post which can create delete edit and archive posts
+✅ SEO optimization ready 
+✅ Headless cms design fully customizable experience from the dashboard
 
-### [🔹E-commerce suite](https:///)  
+> **Tech Stack** Typescript, React.js, Next.js, tailwindcss,prismic.js
+
+---
+
+### [🔹E-commerce suite](https://github.com/Techboy07/Ecommerce-suite)  
 
 **A fullstack E-commerce ready to go solutions** with: 
 
@@ -71,7 +82,7 @@ A **cross-platform fintech mobile app** with:
 ---
 
 ### [🔹Notaculus](https://notaculus.netlify.app/)  
-**A simple note-taking web app** with:  
+**A simpe note-taking web app** with:  
 ✅ **User-preference** the user can select either light or dark mode and change application's accent color and username  
 ✅ **create-notes** the user can create notes that can be stored for future purpose  
 ✅ **edit-notes** the user can select and edit a pre saved note at any point in the future  
