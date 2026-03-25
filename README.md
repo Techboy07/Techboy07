@@ -29,17 +29,6 @@ I've worked with startups to take their apps from **inception to launch**, ensur
 ---
 
 ## 🔥 Projects  
-
-### [🔹 Swegz App](https://apps.apple.com/ng/app/swegzapp/id6736983550)  
-A **cross-platform fintech mobile app** with:  
-✅ **Digital wallet** for seamless transactions  
-✅ **In-app transfers, bill payments, and gift card trading**  
-✅ **Crypto trading functionality**  
-✅ **Biometric KYC verification**  
-✅ **App Store & Google Play compliance**  
-
-> **Tech Stack**: React Native, Firebase, Node.js, Express.js, Stripe, SmileID SDK  
-
 ---
 ### [🔹Swegz blog](https://blog.swegztrade.ng/)
 **A blog that manages FAQ for the swegzapp:**
